@@ -1,4 +1,4 @@
 Aayush Shrestha  
 20450433
 Inline-style: 
-![alt text]("image.png")
+![alt text](image.png)
